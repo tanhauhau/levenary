@@ -1,10 +1,11 @@
 {
   "name": "levenary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "module": "index.mjs",
   "author": "Tan Li Hau <lhtan93@gmail.com>",
   "license": "MIT",
+  "repository": "tanhauhau/levenary",
   "scripts": {
     "test": "jest",
     "build": "babel index.mjs --out-file index.js"
