@@ -1,0 +1,50 @@
+{
+  "name": "levenary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "module": "index.mjs",
+  "author": "Tan Li Hau <lhtan93@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "build": "babel index.mjs --out-file index.js"
+  },
+  "dependencies": {
+    "leven": "^3.1.0"
+  },
+  "files": [
+    "index.mjs",
+    "index.js",
+    "index.d.ts"
+  ],
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  },
+  "browserslist": "> 0.25%, not dead",
+  "keywords": [
+    "leven",
+    "levenshtein",
+    "distance",
+    "array",
+    "string",
+    "algorithm",
+    "algo",
+    "string",
+    "difference",
+    "diff",
+    "fast",
+    "fuzzy",
+    "similar",
+    "similarity",
+    "compare",
+    "comparison",
+    "edit",
+    "text",
+    "match",
+    "matching"
+  ]
+}
