@@ -10,6 +10,6 @@ declare module "levenary" {
 	//=> 'cow'
 	```
 	*/
-  const levenary: (str: string, array: string[]) => string;
-  export default levenary;
+  declare function levenary (str: string, array: string[]): string;
+  declare export default typeof levenary;
 }
