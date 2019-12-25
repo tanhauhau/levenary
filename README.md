@@ -1,5 +1,8 @@
 # levenary
 
+[![npm-version](https://img.shields.io/npm/v/levenary.svg)](https://www.npmjs.com/package/levenary)
+[![github-actions](https://github.com/tanhauhau/levenary/workflows/CI/badge.svg)](https://github.com/tanhauhau/levenary/actions)
+
 > Given a string, A and an array of strings XS, return the string X from XS whose Levenshtein distance from A is minimal.
 
 
