@@ -21,7 +21,7 @@
     "index.flow.js"
   ],
   "engines": {
-    "node": ">= 8"
+    "node": ">= 6"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.5",
