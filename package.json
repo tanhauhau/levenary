@@ -1,5 +1,6 @@
 {
   "name": "levenary",
+  "description": "Given a string, A and an array of strings XS, return the string X from XS whose Levenshtein distance from A is minimal.",
   "version": "1.1.1",
   "main": "index.js",
   "module": "index.mjs",
